@@ -1,0 +1,21 @@
+Method,JCR Method,Error Type,Correct,Interval Correct,N
+NDE,Pivotal,Normal,478,490,500
+NDE,Conformal,Normal,478,486,500
+NDE,Pivotal,Cauchy,482,491,500
+NDE,Conformal,Cauchy,459,469,500
+CDE,Pivotal,Normal,475,487,500
+CDE,Conformal,Normal,482,490,500
+CDE,Pivotal,Cauchy,488,497,500
+CDE,Conformal,Cauchy,472,482,500
+IREG ATE,Pivotal,Normal,470,480,500
+IREG ATE,Conformal,Normal,471,477,500
+IREG ATE,Pivotal,Cauchy,492,497,500
+IREG ATE,Conformal,Cauchy,456,466,500
+IREG CATE,Pivotal,Normal,472,482,500
+IREG CATE,Conformal,Normal,469,477,500
+IREG CATE,Pivotal,Cauchy,480,485,500
+IREG CATE,Conformal,Cauchy,469,479,500
+ANOVA CATE,Pivotal,Normal,476,489,500
+ANOVA CATE,Conformal,Normal,473,483,500
+ANOVA CATE,Pivotal,Cauchy,490,494,500
+ANOVA CATE,Conformal,Cauchy,453,472,500
