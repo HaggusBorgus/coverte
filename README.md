@@ -35,5 +35,4 @@ Calonico, S., Cattaneo, M.D., Titiunik, R.: rdrobust: An r package for robust no
 parametric inference in regression-discontinuity designs. The R Journal 7, 38–51
 (2015)
 
-Dobriban, E., Lin, Z.: Joint coverage regions: Simultaneous confidence and predic-
-tion sets (2025), https://arxiv.org/abs/2303.00203
+Dobriban, E., Lin, Z.: Joint coverage regions: Simultaneous confidence and prediction sets (2025), https://arxiv.org/abs/2303.00203
